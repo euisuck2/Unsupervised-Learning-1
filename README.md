@@ -1,5 +1,5 @@
 
-# Airbnb Data Analysis and Machine Learning Project
+# Airbnb Data Analysis and Machine Learning Project using NLP
 
 This project aims to explore, analyze, and derive insights from Airbnb data through comprehensive data preprocessing and the application of machine learning techniques, including deep learning, supervised learning, and unsupervised learning models. 
 
