@@ -17,7 +17,9 @@ The Airbnb Data Analysis and Machine Learning Project is structured into four ma
 
 3. **Supervised Learning**: This notebook applies various supervised learning techniques to the Airbnb data to predict or classify outcomes.
 
-4. **Unsupervised Learning**: Focuses on clustering and other unsupervised learning methods to uncover patterns and insights from the data.
+4. **Unsupervised Learning**: Focuses on clustering and other unsupervised learning methods to uncover patterns and insights from the review data.
+<img width="508" alt="result" src="https://github.com/euisuck2/Unsupervised-Learning-1/result.png">
+
 
 ## Installation
 
